@@ -1,4 +1,4 @@
-<<<<<<< HEAD:README.md
+
 ## Read me
 
 This github repository contains the code I developed while taking the 7-course *Fundamentals of Computing*-Specialization offered by Rice University on Coursera ([Link](https://www.coursera.org/specializations/computer-fundamentals)). Each course is estimated to take students 4-5 weeks.
@@ -141,14 +141,29 @@ Implementation of the classic arcade game
 
 Second 8-week course which dives into more advanced concepts with a focus on computing.
 
-1. Merge function [Link](http://www.codeskulptor.org/#user43_qIHvvT0xnlzp8Cu.py):
+0. Merge function [Link](http://www.codeskulptor.org/#user43_qIHvvT0xnlzp8Cu.py):
 Handler function for the next project
 
-2. 2048 [Link](http://www.codeskulptor.org/#user43_dxHyVMHDzWMYYz3.py)
+1. 2048 [Link](http://www.codeskulptor.org/#user43_dxHyVMHDzWMYYz3.py)
 Python implementation of the famous game
 
-3. Tic-Tac-Toe (Monte-Carlo simulation [Link](http://www.codeskulptor.org/#user43_7d1AFu3e4tlBHHg.py):
-Play the classic against an AI which you can train 
+2. Tic-Tac-Toe (Monte-Carlo simulation [Link](http://www.codeskulptor.org/#user43_7d1AFu3e4tlBHHg.py):
+Play the classic against an AI which you can train
 
-4. tbc! I still work on that :)
->>>>>>> origin/master:README.md
+3. Yahtzee Simulation [Link](http://www.codeskulptor.org/#user43_ErcD6XexdQPEVRx.py)
+Basic Yahtzee simulation
+
+4. CookieClicker (Simulation Game) [Link](http://www.codeskulptor.org/#user43_33brGivUbWahGQv.py)
+Simulated discount version of Farmville
+
+5. Zombie Apocalypse (Breadth-first-search algorithm) [Link](http://www.codeskulptor.org/#user43_XDad0esqqprlmk5.py)
+Simple test algorithm for breadth-first-search
+
+6. Word Wrangler (Helper function for Scrabble [Link](http://www.codeskulptor.org/#user43_uUhPROY0vunP4dj.py)
+Just insert your character tiles and the program will spit out all possible words
+
+7. Tic-Tac-Toe (Minimax)[Link](http://www.codeskulptor.org/#user43_ZI4q0I5bHEecFFt.py)
+Same version as above but with Minimax
+
+8. Rice Rocks (Asteroid clone) [Link](http://www.codeskulptor.org/#user43_XVmvVpUWYrBB43J.py)
+Final assignment, simple asteroid clone, combines all the assignments above
